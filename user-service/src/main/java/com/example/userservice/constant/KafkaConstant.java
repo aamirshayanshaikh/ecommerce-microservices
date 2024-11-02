@@ -1,7 +1,7 @@
 package com.example.userservice.constant;
 
 public class KafkaConstant {
-  /*  public static final String PROFILE_ONBOARDING_TOPIC = "profileOnboarding";
+    public static final String PROFILE_ONBOARDING_TOPIC = "profileOnboarding";
     public static final String PROFILE_ONBOARDED_TOPIC = "profileOnboarded";
 
     public static final String STATUS_PROFILE_PENDING = "PENDING";
@@ -14,5 +14,5 @@ public class KafkaConstant {
 
     public static final String PAYMENT_REQUEST_TOPIC = "paymentRequest";
     public static final String PAYMENT_CREATED_TOPIC = "paymentCreated";
-    public static final String PAYMENT_COMPLETED_TOPIC = "paymentCompleted";*/
+    public static final String PAYMENT_COMPLETED_TOPIC = "paymentCompleted";
 }
